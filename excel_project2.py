@@ -90,4 +90,4 @@ def insert_into_db():                                                           
     print("Written data to the database successfully!!")
 
 
-insert_into_db()
+# insert_into_db()

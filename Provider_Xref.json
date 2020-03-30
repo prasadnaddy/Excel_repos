@@ -1,0 +1,506 @@
+[
+    {
+        "ExtProviderID": "12",
+        "Abbr": "PHARMCP "
+    },
+    {
+        "ExtProviderID": "13",
+        "Abbr": "PHARMWH "
+    },
+    {
+        "ExtProviderID": "14",
+        "Abbr": "BF      "
+    },
+    {
+        "ExtProviderID": "19",
+        "Abbr": "LABCP   "
+    },
+    {
+        "ExtProviderID": "20",
+        "Abbr": "LABWH   "
+    },
+    {
+        "ExtProviderID": "21",
+        "Abbr": "RN      "
+    },
+    {
+        "ExtProviderID": "38",
+        "Abbr": "CCC     "
+    },
+    {
+        "ExtProviderID": "22005",
+        "Abbr": "MCHS Mob"
+    },
+    {
+        "ExtProviderID": "22011",
+        "Abbr": "WH-CTR  "
+    },
+    {
+        "ExtProviderID": "22012",
+        "Abbr": "FOODPANG"
+    },
+    {
+        "ExtProviderID": "22020",
+        "Abbr": "Ebro    "
+    },
+    {
+        "ExtProviderID": "22022",
+        "Abbr": "OhioGuid"
+    },
+    {
+        "ExtProviderID": "22031",
+        "Abbr": "Astaud  "
+    },
+    {
+        "ExtProviderID": "22033",
+        "Abbr": "Sperott "
+    },
+    {
+        "ExtProviderID": "22038",
+        "Abbr": "JHernan "
+    },
+    {
+        "ExtProviderID": "22039",
+        "Abbr": "EJohnson"
+    },
+    {
+        "ExtProviderID": "22040",
+        "Abbr": "KHersi  "
+    },
+    {
+        "ExtProviderID": "22041",
+        "Abbr": "Intern1 "
+    },
+    {
+        "ExtProviderID": "22042",
+        "Abbr": "Intern2 "
+    },
+    {
+        "ExtProviderID": "22043",
+        "Abbr": "Intern3 "
+    },
+    {
+        "ExtProviderID": "22044",
+        "Abbr": "Intern4 "
+    },
+    {
+        "ExtProviderID": "22045",
+        "Abbr": "InternCP"
+    },
+    {
+        "ExtProviderID": "22046",
+        "Abbr": "InternWH"
+    },
+    {
+        "ExtProviderID": "22051",
+        "Abbr": "MCGRAPAT"
+    },
+    {
+        "ExtProviderID": "8",
+        "Abbr": "SOUTP   "
+    },
+    {
+        "ExtProviderID": "22049",
+        "Abbr": "LEEKUASH"
+    },
+    {
+        "ExtProviderID": "30",
+        "Abbr": "SOSA    "
+    },
+    {
+        "ExtProviderID": "36",
+        "Abbr": "JHEGARTY"
+    },
+    {
+        "ExtProviderID": "39",
+        "Abbr": "OMU     "
+    },
+    {
+        "ExtProviderID": "22001",
+        "Abbr": "sgordon "
+    },
+    {
+        "ExtProviderID": "22004",
+        "Abbr": "ROBINSON"
+    },
+    {
+        "ExtProviderID": "22016",
+        "Abbr": "AKM     "
+    },
+    {
+        "ExtProviderID": "22023",
+        "Abbr": "DESHUN  "
+    },
+    {
+        "ExtProviderID": "22026",
+        "Abbr": "Madiallo"
+    },
+    {
+        "ExtProviderID": "22034",
+        "Abbr": "OTCHERE "
+    },
+    {
+        "ExtProviderID": "22050",
+        "Abbr": "TRIMMER "
+    },
+    {
+        "ExtProviderID": "31",
+        "Abbr": "CHERIER "
+    },
+    {
+        "ExtProviderID": "22014",
+        "Abbr": "CEN PREG"
+    },
+    {
+        "ExtProviderID": "22015",
+        "Abbr": "OBN     "
+    },
+    {
+        "ExtProviderID": "22030",
+        "Abbr": "Astaudt "
+    },
+    {
+        "ExtProviderID": "22006",
+        "Abbr": "TAlexand"
+    },
+    {
+        "ExtProviderID": "22025",
+        "Abbr": "pjbarr  "
+    },
+    {
+        "ExtProviderID": "22032",
+        "Abbr": "AGer    "
+    },
+    {
+        "ExtProviderID": "22017",
+        "Abbr": "Rray    "
+    },
+    {
+        "ExtProviderID": "4",
+        "Abbr": "LEATH   "
+    },
+    {
+        "ExtProviderID": "28",
+        "Abbr": "YANZ    "
+    },
+    {
+        "ExtProviderID": "34",
+        "Abbr": "WLW     "
+    },
+    {
+        "ExtProviderID": "35",
+        "Abbr": "lilyz   "
+    },
+    {
+        "ExtProviderID": "37",
+        "Abbr": "ANOLTE  "
+    },
+    {
+        "ExtProviderID": "22018",
+        "Abbr": "ACC     "
+    },
+    {
+        "ExtProviderID": "22028",
+        "Abbr": "CWesley "
+    },
+    {
+        "ExtProviderID": "27",
+        "Abbr": "PAMELAC "
+    },
+    {
+        "ExtProviderID": "22009",
+        "Abbr": "GV      "
+    },
+    {
+        "ExtProviderID": "16",
+        "Abbr": "HANM    "
+    },
+    {
+        "ExtProviderID": "22010",
+        "Abbr": "KF      "
+    },
+    {
+        "ExtProviderID": "22021",
+        "Abbr": "Alog    "
+    },
+    {
+        "ExtProviderID": "22017",
+        "Abbr": "Rray    "
+    },
+    {
+        "ExtProviderID": "29",
+        "Abbr": "ERICF   "
+    },
+    {
+        "ExtProviderID": "22010",
+        "Abbr": "KF      "
+    },
+    {
+        "ExtProviderID": "4",
+        "Abbr": "LEATH   "
+    },
+    {
+        "ExtProviderID": "22007",
+        "Abbr": "downhour"
+    },
+    {
+        "ExtProviderID": "34",
+        "Abbr": "WLW     "
+    },
+    {
+        "ExtProviderID": "22008",
+        "Abbr": "HAWTHORN"
+    },
+    {
+        "ExtProviderID": "27",
+        "Abbr": "PAMELAC "
+    },
+    {
+        "ExtProviderID": "22029",
+        "Abbr": "Jsulei  "
+    },
+    {
+        "ExtProviderID": "22019",
+        "Abbr": "DHOP    "
+    },
+    {
+        "ExtProviderID": "22029",
+        "Abbr": "Jsulei  "
+    },
+    {
+        "ExtProviderID": "22035",
+        "Abbr": "LOMO    "
+    },
+    {
+        "ExtProviderID": "4",
+        "Abbr": "LEATH   "
+    },
+    {
+        "ExtProviderID": "28",
+        "Abbr": "YANZ    "
+    },
+    {
+        "ExtProviderID": "34",
+        "Abbr": "WLW     "
+    },
+    {
+        "ExtProviderID": "35",
+        "Abbr": "lilyz   "
+    },
+    {
+        "ExtProviderID": "37",
+        "Abbr": "ANOLTE  "
+    },
+    {
+        "ExtProviderID": "22018",
+        "Abbr": "ACC     "
+    },
+    {
+        "ExtProviderID": "22028",
+        "Abbr": "CWesley "
+    },
+    {
+        "ExtProviderID": "22036",
+        "Abbr": "BERMUDEZ"
+    },
+    {
+        "ExtProviderID": "27",
+        "Abbr": "PAMELAC "
+    },
+    {
+        "ExtProviderID": "29",
+        "Abbr": "ERICF   "
+    },
+    {
+        "ExtProviderID": "22019",
+        "Abbr": "DHOP    "
+    },
+    {
+        "ExtProviderID": "22027",
+        "Abbr": "DIALLO  "
+    },
+    {
+        "ExtProviderID": "16",
+        "Abbr": "HANM    "
+    },
+    {
+        "ExtProviderID": "22002",
+        "Abbr": "ELKHAI  "
+    },
+    {
+        "ExtProviderID": "22010",
+        "Abbr": "KF      "
+    },
+    {
+        "ExtProviderID": "22013",
+        "Abbr": "MBR     "
+    },
+    {
+        "ExtProviderID": "33",
+        "Abbr": "JC      "
+    },
+    {
+        "ExtProviderID": "22021",
+        "Abbr": "Alog    "
+    },
+    {
+        "ExtProviderID": "22017",
+        "Abbr": "Rray    "
+    },
+    {
+        "ExtProviderID": "22007",
+        "Abbr": "downhour"
+    },
+    {
+        "ExtProviderID": "22008",
+        "Abbr": "HAWTHORN"
+    },
+    {
+        "ExtProviderID": "22009",
+        "Abbr": "GV      "
+    },
+    {
+        "ExtProviderID": "22037",
+        "Abbr": "PERROTTA"
+    },
+    {
+        "ExtProviderID": "22003",
+        "Abbr": "JIVIDEN "
+    },
+    {
+        "ExtProviderID": "22035",
+        "Abbr": "LOMO    "
+    },
+    {
+        "ExtProviderID": "22017",
+        "Abbr": "Rray    "
+    },
+    {
+        "ExtProviderID": "35",
+        "Abbr": "lilyz   "
+    },
+    {
+        "ExtProviderID": "22003",
+        "Abbr": "JIVIDEN "
+    },
+    {
+        "ExtProviderID": "28",
+        "Abbr": "YANZ    "
+    },
+    {
+        "ExtProviderID": "22002",
+        "Abbr": "ELKHAI  "
+    },
+    {
+        "ExtProviderID": "34",
+        "Abbr": "WLW     "
+    },
+    {
+        "ExtProviderID": "22009",
+        "Abbr": "GV      "
+    },
+    {
+        "ExtProviderID": "37",
+        "Abbr": "ANOLTE  "
+    },
+    {
+        "ExtProviderID": "33",
+        "Abbr": "JC      "
+    },
+    {
+        "ExtProviderID": "16",
+        "Abbr": "HANM    "
+    },
+    {
+        "ExtProviderID": "22024",
+        "Abbr": "FOFO    "
+    },
+    {
+        "ExtProviderID": "22036",
+        "Abbr": "BERMUDEZ"
+    },
+    {
+        "ExtProviderID": "22037",
+        "Abbr": "PERROTTA"
+    },
+    {
+        "ExtProviderID": "22021",
+        "Abbr": "Alog    "
+    },
+    {
+        "ExtProviderID": "22013",
+        "Abbr": "MBR     "
+    },
+    {
+        "ExtProviderID": "22018",
+        "Abbr": "ACC     "
+    },
+    {
+        "ExtProviderID": "22027",
+        "Abbr": "DIALLO  "
+    },
+    {
+        "ExtProviderID": "22002",
+        "Abbr": "ELKHAI  "
+    },
+    {
+        "ExtProviderID": "29",
+        "Abbr": "ERICF   "
+    },
+    {
+        "ExtProviderID": "22028",
+        "Abbr": "CWesley "
+    },
+    {
+        "ExtProviderID": "4",
+        "Abbr": "LEATH   "
+    },
+    {
+        "ExtProviderID": "28",
+        "Abbr": "YANZ    "
+    },
+    {
+        "ExtProviderID": "35",
+        "Abbr": "lilyz   "
+    },
+    {
+        "ExtProviderID": "37",
+        "Abbr": "ANOLTE  "
+    },
+    {
+        "ExtProviderID": "22024",
+        "Abbr": "FOFO    "
+    },
+    {
+        "ExtProviderID": "22028",
+        "Abbr": "CWesley "
+    },
+    {
+        "ExtProviderID": "27",
+        "Abbr": "PAMELAC "
+    },
+    {
+        "ExtProviderID": "22008",
+        "Abbr": "HAWTHORN"
+    },
+    {
+        "ExtProviderID": "22009",
+        "Abbr": "GV      "
+    },
+    {
+        "ExtProviderID": "22019",
+        "Abbr": "DHOP    "
+    },
+    {
+        "ExtProviderID": "22029",
+        "Abbr": "Jsulei  "
+    },
+    {
+        "ExtProviderID": "33",
+        "Abbr": "JC      "
+    },
+    {
+        "ExtProviderID": "22017",
+        "Abbr": "Rray    "
+    }
+]

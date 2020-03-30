@@ -1,0 +1,626 @@
+[
+    {
+        "PayerID": 1,
+        "Name": "Aetna"
+    },
+    {
+        "PayerID": 2,
+        "Name": "Aetna Medicare"
+    },
+    {
+        "PayerID": 3,
+        "Name": "Aetna Better Health MyCare Ohio"
+    },
+    {
+        "PayerID": 4,
+        "Name": "zAetna Better Health of Ohio-Claims Dept"
+    },
+    {
+        "PayerID": 5,
+        "Name": "Healthscope Benefits Inc"
+    },
+    {
+        "PayerID": 6,
+        "Name": "Aetna US Healthcare"
+    },
+    {
+        "PayerID": 7,
+        "Name": "Aetna Better Health Medicaid Only"
+    },
+    {
+        "PayerID": 8,
+        "Name": "Anthem Blue Cross Blue Shield"
+    },
+    {
+        "PayerID": 9,
+        "Name": "Anthem BCBS of Indiana"
+    },
+    {
+        "PayerID": 10,
+        "Name": "Anthem Highmark Blue Shield"
+    },
+    {
+        "PayerID": 11,
+        "Name": "Blue Cross Blue Shield Advantage"
+    },
+    {
+        "PayerID": 12,
+        "Name": "Premera Blue Cross"
+    },
+    {
+        "PayerID": 13,
+        "Name": "Highmark BCBS"
+    },
+    {
+        "PayerID": 14,
+        "Name": "Blue Cross Blue Shield"
+    },
+    {
+        "PayerID": 15,
+        "Name": "Anthem BCBS OH Federal Employees"
+    },
+    {
+        "PayerID": 16,
+        "Name": "Cigna"
+    },
+    {
+        "PayerID": 17,
+        "Name": "Cigna"
+    },
+    {
+        "PayerID": 18,
+        "Name": "Cigna"
+    },
+    {
+        "PayerID": 19,
+        "Name": "Medical Mutual of Ohio"
+    },
+    {
+        "PayerID": 20,
+        "Name": "AARP"
+    },
+    {
+        "PayerID": 21,
+        "Name": "Meritain"
+    },
+    {
+        "PayerID": 22,
+        "Name": "American Heritage Life Insurance Company"
+    },
+    {
+        "PayerID": 23,
+        "Name": "Tricare North"
+    },
+    {
+        "PayerID": 24,
+        "Name": "Champva"
+    },
+    {
+        "PayerID": 25,
+        "Name": "Core Health Insurance"
+    },
+    {
+        "PayerID": 26,
+        "Name": "Pan American Life"
+    },
+    {
+        "PayerID": 27,
+        "Name": "ChampVA Program"
+    },
+    {
+        "PayerID": 28,
+        "Name": "Reliance Standard"
+    },
+    {
+        "PayerID": 29,
+        "Name": "UMR"
+    },
+    {
+        "PayerID": 30,
+        "Name": "Coresource"
+    },
+    {
+        "PayerID": 31,
+        "Name": "Mail Handlers Benefit PLan"
+    },
+    {
+        "PayerID": 32,
+        "Name": "NGS American"
+    },
+    {
+        "PayerID": 33,
+        "Name": "Starmark"
+    },
+    {
+        "PayerID": 34,
+        "Name": "Key Benefit Administrators. Inc."
+    },
+    {
+        "PayerID": 35,
+        "Name": "United Health Care Community Plan"
+    },
+    {
+        "PayerID": 36,
+        "Name": "In Health Ohio PPO"
+    },
+    {
+        "PayerID": 37,
+        "Name": "Molina Marketplace"
+    },
+    {
+        "PayerID": 38,
+        "Name": "American Public Life"
+    },
+    {
+        "PayerID": 39,
+        "Name": "Ohio Healthy Medical Plan"
+    },
+    {
+        "PayerID": 40,
+        "Name": "Allied"
+    },
+    {
+        "PayerID": 41,
+        "Name": "Paramount Insurance Company"
+    },
+    {
+        "PayerID": 42,
+        "Name": "Unified Life Insurance Company"
+    },
+    {
+        "PayerID": 43,
+        "Name": "Lifestyle Health Plans"
+    },
+    {
+        "PayerID": 44,
+        "Name": "Optimed Health Plans"
+    },
+    {
+        "PayerID": 45,
+        "Name": "The JP Farley Corporation"
+    },
+    {
+        "PayerID": 46,
+        "Name": "Disablity"
+    },
+    {
+        "PayerID": 47,
+        "Name": "PAI"
+    },
+    {
+        "PayerID": 48,
+        "Name": "Allied P and C Insurance Co"
+    },
+    {
+        "PayerID": 49,
+        "Name": "Humana PPO POS"
+    },
+    {
+        "PayerID": 50,
+        "Name": "International Medical Group"
+    },
+    {
+        "PayerID": 51,
+        "Name": "All Savers Health Plan"
+    },
+    {
+        "PayerID": 52,
+        "Name": "The Hartford"
+    },
+    {
+        "PayerID": 53,
+        "Name": "Colonial Penn Life"
+    },
+    {
+        "PayerID": 54,
+        "Name": "Allied National"
+    },
+    {
+        "PayerID": 55,
+        "Name": "Benefit Admin Systems LLC"
+    },
+    {
+        "PayerID": 56,
+        "Name": "Quantum Health"
+    },
+    {
+        "PayerID": 57,
+        "Name": "Meritain"
+    },
+    {
+        "PayerID": 58,
+        "Name": "Key Benefit Administrators"
+    },
+    {
+        "PayerID": 59,
+        "Name": "Tall Tree Administrators"
+    },
+    {
+        "PayerID": 60,
+        "Name": "Guarantee Trust Life Ins Co"
+    },
+    {
+        "PayerID": 61,
+        "Name": "Health Partners"
+    },
+    {
+        "PayerID": 62,
+        "Name": "Administrative Concepts Inc"
+    },
+    {
+        "PayerID": 63,
+        "Name": "Golden Rule Insurance Co"
+    },
+    {
+        "PayerID": 64,
+        "Name": "Boong"
+    },
+    {
+        "PayerID": 65,
+        "Name": "Health First Health Plan"
+    },
+    {
+        "PayerID": 66,
+        "Name": "HCC Life Insurance Co"
+    },
+    {
+        "PayerID": 67,
+        "Name": "Sisco"
+    },
+    {
+        "PayerID": 68,
+        "Name": "Web TPA"
+    },
+    {
+        "PayerID": 69,
+        "Name": "Independence Administrators"
+    },
+    {
+        "PayerID": 70,
+        "Name": "Metroplus Health Plan Inc"
+    },
+    {
+        "PayerID": 71,
+        "Name": "Avalon Benefit Services Inc"
+    },
+    {
+        "PayerID": 72,
+        "Name": "The Loomis Company"
+    },
+    {
+        "PayerID": 73,
+        "Name": "Co-ordinated Benefit Plans, LLC"
+    },
+    {
+        "PayerID": 74,
+        "Name": "Health Choice Plus"
+    },
+    {
+        "PayerID": 75,
+        "Name": "Century Healthcare LLC Web TPA"
+    },
+    {
+        "PayerID": 76,
+        "Name": "UPMC Health Plan"
+    },
+    {
+        "PayerID": 77,
+        "Name": "International Benefit Administrators"
+    },
+    {
+        "PayerID": 78,
+        "Name": "MecBridge- PREVENTIVE SERVICES ONLY"
+    },
+    {
+        "PayerID": 79,
+        "Name": "Oscar Insurance Company"
+    },
+    {
+        "PayerID": 80,
+        "Name": "Ohio Health Choice"
+    },
+    {
+        "PayerID": 81,
+        "Name": "Payer Compass/ACS"
+    },
+    {
+        "PayerID": 82,
+        "Name": "The Loomis Company"
+    },
+    {
+        "PayerID": 83,
+        "Name": "HealthScope Benefits"
+    },
+    {
+        "PayerID": 84,
+        "Name": "NALC"
+    },
+    {
+        "PayerID": 85,
+        "Name": "Fringe Benefit Group"
+    },
+    {
+        "PayerID": 86,
+        "Name": "Medi-Share Healthcare"
+    },
+    {
+        "PayerID": 87,
+        "Name": "Group Health Cooperative"
+    },
+    {
+        "PayerID": 88,
+        "Name": "Liberty Healthshare/MedCost Solutions"
+    },
+    {
+        "PayerID": 89,
+        "Name": "Health Alliance Plan"
+    },
+    {
+        "PayerID": 90,
+        "Name": "Philadelphia American Life Ins Co"
+    },
+    {
+        "PayerID": 91,
+        "Name": "One Beacon care of Careworks"
+    },
+    {
+        "PayerID": 92,
+        "Name": "SGIC"
+    },
+    {
+        "PayerID": 93,
+        "Name": "HealthFirst Health Plan"
+    },
+    {
+        "PayerID": 94,
+        "Name": "Medicare Supplement Misc."
+    },
+    {
+        "PayerID": 95,
+        "Name": "Hard Core Collections"
+    },
+    {
+        "PayerID": 96,
+        "Name": "Heart of Ohio Selfpay"
+    },
+    {
+        "PayerID": 97,
+        "Name": "Hrtoh Labs Only"
+    },
+    {
+        "PayerID": 98,
+        "Name": "Miscellaneous"
+    },
+    {
+        "PayerID": 99,
+        "Name": "JUST4ME Caresource"
+    },
+    {
+        "PayerID": 100,
+        "Name": "Caresource Marketplace"
+    },
+    {
+        "PayerID": 101,
+        "Name": "Medicaid Wh"
+    },
+    {
+        "PayerID": 102,
+        "Name": "Medicaid Crossover"
+    },
+    {
+        "PayerID": 103,
+        "Name": "Medicaid Cp"
+    },
+    {
+        "PayerID": 104,
+        "Name": "Medicaid Family Planning Wh"
+    },
+    {
+        "PayerID": 105,
+        "Name": "Medicaid Family Planning Capital Park"
+    },
+    {
+        "PayerID": 106,
+        "Name": "Medicaid CH"
+    },
+    {
+        "PayerID": 107,
+        "Name": "Molina of Ohio CFC"
+    },
+    {
+        "PayerID": 108,
+        "Name": "Molina of Ohio ABD"
+    },
+    {
+        "PayerID": 109,
+        "Name": "Caresource ABD"
+    },
+    {
+        "PayerID": 110,
+        "Name": "Caresource CFC"
+    },
+    {
+        "PayerID": 111,
+        "Name": "Buckeye Community Plan CFC"
+    },
+    {
+        "PayerID": 112,
+        "Name": "Buckeye Community Plan ABD"
+    },
+    {
+        "PayerID": 113,
+        "Name": "Paramount Advantage CFC"
+    },
+    {
+        "PayerID": 114,
+        "Name": "Paramount Advantage ABD"
+    },
+    {
+        "PayerID": 115,
+        "Name": "United Health Care Community Plan CFC"
+    },
+    {
+        "PayerID": 116,
+        "Name": "United Health Care Community Plan Abd"
+    },
+    {
+        "PayerID": 117,
+        "Name": "Molina MyCare Ohio Medicaid Only"
+    },
+    {
+        "PayerID": 118,
+        "Name": "Paramount Advantage Medicaid"
+    },
+    {
+        "PayerID": 119,
+        "Name": "Medicare CGS Whitehall"
+    },
+    {
+        "PayerID": 120,
+        "Name": "Medicare NGS Capital Park"
+    },
+    {
+        "PayerID": 121,
+        "Name": "Medicare Secondary"
+    },
+    {
+        "PayerID": 122,
+        "Name": "State Mutual"
+    },
+    {
+        "PayerID": 123,
+        "Name": "Medigold"
+    },
+    {
+        "PayerID": 124,
+        "Name": "Medigold"
+    },
+    {
+        "PayerID": 125,
+        "Name": "Humana MCR"
+    },
+    {
+        "PayerID": 126,
+        "Name": "Medicare Complete - Secure Horizons"
+    },
+    {
+        "PayerID": 127,
+        "Name": "Amerigroup Community Care"
+    },
+    {
+        "PayerID": 128,
+        "Name": "United Health Care Medicare"
+    },
+    {
+        "PayerID": 129,
+        "Name": "Anthem Medicare Advantage Plan"
+    },
+    {
+        "PayerID": 130,
+        "Name": "AARP Uhc Medicare Complete"
+    },
+    {
+        "PayerID": 131,
+        "Name": "Molina Medicare Hmo"
+    },
+    {
+        "PayerID": 132,
+        "Name": "United Health Care Community Pl-Medicare"
+    },
+    {
+        "PayerID": 133,
+        "Name": "Molina MyCare Ohio Dual"
+    },
+    {
+        "PayerID": 134,
+        "Name": "Caresource Medicare Adv Plan"
+    },
+    {
+        "PayerID": 135,
+        "Name": "UHC Medicare Community Plan"
+    },
+    {
+        "PayerID": 136,
+        "Name": "Medical Mutual of OH Medicare"
+    },
+    {
+        "PayerID": 137,
+        "Name": "PreCollect"
+    },
+    {
+        "PayerID": 138,
+        "Name": "Tricare East Region"
+    },
+    {
+        "PayerID": 139,
+        "Name": "United Health Care"
+    },
+    {
+        "PayerID": 140,
+        "Name": "Golden Rule"
+    },
+    {
+        "PayerID": 141,
+        "Name": "UHC River Valley Plan"
+    },
+    {
+        "PayerID": 142,
+        "Name": "GEHA"
+    },
+    {
+        "PayerID": 143,
+        "Name": "UHC Students Resources"
+    },
+    {
+        "PayerID": 144,
+        "Name": "United Healthcare"
+    },
+    {
+        "PayerID": 145,
+        "Name": "Optum UBH UHC"
+    },
+    {
+        "PayerID": 146,
+        "Name": "United Healthcare"
+    },
+    {
+        "PayerID": 147,
+        "Name": "United Healthcare"
+    },
+    {
+        "PayerID": 148,
+        "Name": "United Healthcare"
+    },
+    {
+        "PayerID": 149,
+        "Name": "Liberty Mutual"
+    },
+    {
+        "PayerID": 150,
+        "Name": "Caresource Wrap Wh"
+    },
+    {
+        "PayerID": 151,
+        "Name": "Caresource Wrap Cp"
+    },
+    {
+        "PayerID": 152,
+        "Name": "Molina Wrap Cp"
+    },
+    {
+        "PayerID": 153,
+        "Name": "Molina Wrap Wh"
+    },
+    {
+        "PayerID": 154,
+        "Name": "Wrap Whitehall"
+    },
+    {
+        "PayerID": 155,
+        "Name": "Wrap Capital Park"
+    },
+    {
+        "PayerID": 156,
+        "Name": "Wrap Chantry"
+    }
+]
