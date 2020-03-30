@@ -1,0 +1,20 @@
+[
+    {
+        "EMPID": 1.0,
+        "FirstName": "ABC",
+        "LastName": "ABC",
+        "CTC": "8 LPA"
+    },
+    {
+        "EMPID": 2.0,
+        "FirstName": "ABC",
+        "LastName": "DEF",
+        "CTC": "8.5 LPA"
+    },
+    {
+        "EMPID": 3.0,
+        "FirstName": "XYZ",
+        "LastName": "MNO",
+        "CTC": "9 LPA"
+    }
+]
